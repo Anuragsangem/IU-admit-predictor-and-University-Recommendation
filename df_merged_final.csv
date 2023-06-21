@@ -1,0 +1,150 @@
+,Status,Target major,GRE_TOTAL,IELTS_or_TOEFL,Grade,Publications
+0,Reject,Computer Science,310,92.0,8.59,0
+1,Admit,Computer Science,318,99.0,8.5,0
+2,Reject,MIS,305,103.0,9.59,0
+3,Admit,Data Science,320,105.0,9.14,0
+4,Admit,Data Science,316,110.0,61.7,1
+5,Reject,Data Science,311,94.0,7.75,0
+6,Admit,Computer Science,320,6.5,7.52,0
+7,Admit,MIS,317,107.0,8.05,0
+8,Admit,MIS,325,115.0,65.0,0
+9,Admit,Computer Science,314,106.0,8.39,0
+11,Admit,MIS,318,118.0,8.43,0
+12,Reject,Computer Science,303,90.0,9.0,0
+13,Reject,Computer Science,307,96.0,71.0,0
+14,Admit,Data Science,313,112.0,8.27,1
+15,Admit,Data Science,323,6.5,3.61,0
+16,Admit,Data Science,316,7.0,7.27,0
+17,Admit,Computer Science,306,100.0,8.0,0
+18,Reject,MIS,321,109.0,60.0,0
+19,Admit,Computer Science,323,104.0,7.72,0
+20,Admit,Computer Science,306,103.0,70.22,0
+22,Admit,Computer Science,307,6.5,8.33,0
+23,Admit,Data Science,310,7.5,9.08,0
+24,Admit,Data Science,325,110.0,8.0,0
+25,Reject,MIS,320,105.0,7.0,0
+26,Admit,Computer Science,316,100.0,69.0,0
+27,Admit,Computer Science,312,7.0,83.0,0
+28,Admit,Computer Science,319,103.0,8.5,0
+29,Reject,Computer Science,314,98.0,82.0,0
+30,Admit,Computer Science,316,100.0,8.67,2
+31,Admit,MIS,306,109.0,8.34,0
+33,Admit,Computer Science,314,109.0,8.5,0
+34,Admit,Data Science,314,105.0,74.5,0
+35,Admit,Computer Science,316,106.0,7.26,0
+36,Admit,Computer Science,318,97.0,8.14,0
+37,Admit,Data Science,316,6.5,77.76,0
+38,Admit,Computer Science,313,98.0,7.3,0
+39,Reject,Data Science,306,101.0,8.88,0
+40,Admit,Data Science,319,101.0,8.15,0
+41,Admit,Computer Science,325,105.0,6.66,0
+42,Admit,Data Science,304,83.0,7.7,0
+46,Admit,Computer Science,316,108.0,7.37,0
+47,Admit,Information & Library Science,326,110.0,8.04,0
+48,Reject,MIS,320,116.0,82.0,0
+49,Admit,Cyber Security,322,113.0,55.0,0
+50,Reject,Computer Science,301,95.0,75.0,0
+51,Reject,MIS,328,104.0,73.6,0
+52,Admit,Computer Science,328,104.0,6.79,0
+53,Reject,MIS,307,107.0,60.0,0
+54,Reject,MIS,297,90.0,8.9,0
+55,Admit,Computer Science,306,94.0,65.0,0
+57,Admit,MIS,314,109.0,8.61,0
+58,Admit,Computer Science,313,112.0,6.95,0
+59,Reject,Data Science,308,96.0,70.4,1
+60,Reject,MIS,317,110.0,7.8,2
+61,Reject,Computer Science,313,101.0,71.22,0
+62,Admit,Computer Science,317,110.0,6.87,0
+63,Admit,Data Science,325,114.0,83.0,0
+64,Reject,MIS,324,110.0,63.58,0
+65,Reject,Computer Science,320,113.0,67.0,0
+66,Admit,Computer Science,322,111.0,7.39,4
+68,Admit,Computer Science,311,98.0,9.06,0
+69,Admit,Data Science,324,104.0,8.07,0
+70,Admit,Data Science,316,96.0,8.37,0
+71,Admit,Computer Science,310,100.0,8.96,0
+72,Admit,Computer Science,306,104.0,70.0,0
+73,Admit,Computer Science,312,105.0,62.0,2
+74,Admit,Computer Science,323,111.0,7.67,0
+75,Admit,Computer Science,306,98.0,65.0,0
+76,Admit,Computer Science,326,113.0,9.81,0
+77,Admit,Computer Science,319,6.5,70.0,0
+79,Reject,MIS,317,108.0,8.14,0
+80,Admit,Data Science,315,106.0,71.0,0
+81,Reject,MIS,322,114.0,8.97,0
+82,Reject,Computer Science,326,113.0,60.0,1
+83,Admit,Data Science,330,6.5,8.1,0
+84,Admit,Data Science,314,107.0,7.7,2
+85,Admit,Data Science,320,114.0,69.0,0
+86,Reject,MIS,320,117.0,59.42,0
+87,Reject,Data Science,322,107.0,6.48,0
+88,Admit,Computer Science,315,108.0,7.48,0
+90,Admit,Computer Science,310,100.0,7.3,0
+91,Admit,Computer Science,320,107.0,73.0,0
+92,Admit,Computer Science,308,102.0,8.72,0
+93,Reject,Computer Science,325,112.0,7.0,0
+94,Admit,Data Science,316,99.0,8.9,0
+95,Admit,Computer Science,315,111.0,74.0,0
+96,Admit,Data Science,311,107.0,9.45,0
+97,Admit,Data Science,318,102.0,8.5,0
+98,Admit,Computer Science,307,96.0,69.93,0
+99,Admit,Computer Science,309,105.0,64.0,0
+0,Admit,Data Science,310,7.5,8.72,1.0
+1,Admit,Computer Science,325,110.0,8.47,0
+2,Admit,Computer Science,328,108.0,8.3,0.0
+3,Admit,Computer Science,315,98.0,8.8,1.0
+4,Admit,Computer Science,312,105.0,9.7,3.0
+5,Admit,Data Science,315,7.5,8.2,0.0
+6,Admit,Data Science,318,7.5,8.1,0.0
+7,Admit,Data Science,307,7.5,8.2,1.0
+8,Admit,Computer Science,331,8.0,9.06,0.0
+9,Admit,Computer Science,314,7.0,9.7,3.0
+10,Admit,Computer Science,310,7.5,9.1,0.0
+11,Admit,Computer Science,303,6.5,8.9,1.0
+12,Admit,Data Science,320,8.0,9.0,2.0
+13,Admit,Computer Science,317,7.5,8.7,0.0
+14,Admit,Data Science,310,7.0,8.0,0.0
+15,Admit,Computer Science,310,7.5,9.4,3.0
+16,Admit,Computer Science,315,8.0,9.5,2.0
+17,Admit,Data Science,312,7.0,8.3,0.0
+18,Admit,Computer Science,303,7.0,8.5,1.0
+19,Admit,Computer Science,310,7.5,9.4,2.0
+20,Admit,Computer Science,313,8.0,9.0,0.0
+21,Admit,Computer Science,315,8.0,8.9,1.0
+22,Admit,Data Science,317,7.5,8.5,1.0
+23,Admit,Data Science,311,7.0,8.9,0.0
+24,Admit,Computer Science,311,7.0,8.6,1.0
+25,Admit,Computer Science,312,7.0,8.0,1.0
+26,Admit,Data Science,311,8.0,8.6,1.0
+27,Admit,Computer Science,320,8.0,9.0,0.0
+28,Admit,Computer Science,311,93.0,8.09,1.0
+29,Admit,Data Science,315,97.0,9.0,2.0
+30,Admit,Information Systems,295,95.0,7.6,0.0
+31,Reject,Computer Science,290,70.0,7.5,0.0
+32,Reject,Information Systems,299,6.5,8.0,0.0
+33,Reject,Data Science,300,7.0,7.0,0.0
+34,Reject,Computer Science,305,6.5,7.6,1.0
+35,Reject,Computer Science,311,6.5,7.9,1.0
+36,Reject,Human Computer Interaction,302,6.0,7.8,1.0
+37,Reject,Computer Science,301,7.0,8.0,0.0
+38,Reject,Computer Science,303,6.5,8.3,0.0
+39,Reject,Information Systems,303,6.5,8.0,0.0
+40,Reject,Computer Science,302,6.5,8.0,1.0
+41,Reject,Computer Science,301,6.5,7.2,0.0
+42,Reject,Computer Science,307,6.5,7.1,0.0
+43,Reject,Computer Science,300,64.0,8.0,1.0
+44,Reject,Information Systems,307,6.5,7.4,0.0
+45,Reject,Human Computer Interaction,300,6.0,8.0,0.0
+46,Reject,Human Computer Interaction,303,6.5,7.2,1.0
+47,Reject,Data Science,306,6.5,7.3,0.0
+48,Reject,Information Systems,300,6.5,7.0,0.0
+49,Reject,Data Science,299,7.0,7.6,1.0
+50,Reject,Computer Science,300,6.0,8.0,0.0
+51,Reject,Data Science,300,6.5,7.7,0.0
+52,Reject,Information Systems,303,6.5,7.5,1.0
+53,Reject,Human Computer Interaction,300,6.5,7.9,1.0
+54,Reject,Computer Science,309,6.0,6.9,1.0
+55,Reject,Information Systems,300,7.0,7.9,1.0
+56,Reject,Data Science,305,7.5,6.9,1.0
+57,Admit,Secure Computing,310,7.5,8.9,1.0
+58,Admit,Computer Science,309,7.5,9.3,2.0
